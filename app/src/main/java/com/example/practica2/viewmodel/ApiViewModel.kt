@@ -39,12 +39,5 @@ class ApiViewModel:ViewModel() {
             }
         }
     }
-
-//    fun getApiPhotos(){
-//        viewModelScope.launch{
-//            val listResult = Api.retrofitService.getPhotos()
-//            apiUiState = listResult
-//        }
-//    }
 }
 
